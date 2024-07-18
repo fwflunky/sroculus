@@ -12,7 +12,7 @@ This Repo contains bypasses for skipping Compatibility Checks in Meta Quest Link
 
 For bypassing screen [like this](https://i.ibb.co/RSStQb2/cmp.webp) (startup unclosable screen):
 
-- Download file named "app.asar" from repo
+- Download file named "app.asar" from Releases tab
 - Close Quest Link App if opened
 - Copy "app.asar" to C:\Program Files\Oculus\Support\oculus-client\resources with overwriting
 - Launch Quest Link App again and see result
